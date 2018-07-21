@@ -3,7 +3,7 @@ const Web3 = require('web3');
 const compiledFactory = require('./build/CampaignFactory.json');
 
 const provider = new HDWalletProvider(
-  'differ second fence calm inch ten forward prefer winter head symbol genre',
+  'Replace with your private key',
   'https://rinkeby.infura.io/lWH7DsX8C87c36fecRwz'
 );
 const web3 = new Web3(provider);
