@@ -1,1 +1,1 @@
-# Kickstart - Ethereum Smart Contract for Running Decentralized Campaigns
+# Kickstart - Decentralized Fund Raising Campaign
